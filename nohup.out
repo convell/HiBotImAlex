@@ -1,8 +1,0 @@
-[INFO] 2018-02-10 22:39:14,104 - Bot:485 - Adding plugin module at path "plugins.tutorial"
-[INFO] 2018-02-10 22:39:14,106 - HTTPClient:271 - GET https://discordapp.com/api/v7/gateway (None)
-[INFO] 2018-02-10 22:39:14,187 - GatewayClient:147 - Opening websocket connection to URL `wss://gateway.discord.gg?v=6&encoding=json&compress=zlib-stream`
-[INFO] 2018-02-10 22:39:14,426 - GatewayClient:212 - WS Opened: sending identify payload
-[INFO] 2018-02-10 22:39:14,427 - GatewayClient:122 - Received HELLO, starting heartbeater...
-[INFO] 2018-02-10 22:39:14,545 - GatewayClient:126 - Received READY
-[INFO] 2018-02-10 22:39:35,788 - HTTPClient:271 - POST https://discordapp.com/api/v7/channels/411770561912635402/messages (None)
-[INFO] 2018-02-10 22:39:51,345 - HTTPClient:271 - POST https://discordapp.com/api/v7/channels/411770561912635402/messages (None)
