@@ -1,0 +1,5 @@
+token: 'NDExNjU2NDExNjE0MDE5NTg0.DWECnw.3ZJW9eOJ2_u-UKnG3RtRmWxslHo'
+
+bot:
+  plugins:
+        - plugins.tutorial
