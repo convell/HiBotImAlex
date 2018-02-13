@@ -53,7 +53,7 @@ class TutorialPlugin(Plugin):
                         imString = imString.split("?",1)[0]
 
                     if not '"' in imString:
-			if alexChanceToSpeak >= 93:
+			if alexChanceToSpeak >= 193:
 			    event.reply("Hi" + imString.lower() + ", I'm Alex", tts=True)
                         else: 
 			    event.reply("Hi" + imString.lower() + ", I'm Alex")
